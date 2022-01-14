@@ -1,0 +1,6 @@
+framework module InterfaceCommon {
+  umbrella header "InterfaceCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

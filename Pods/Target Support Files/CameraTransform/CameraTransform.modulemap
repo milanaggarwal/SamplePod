@@ -1,0 +1,6 @@
+framework module CameraTransform {
+  umbrella header "CameraTransform-umbrella.h"
+
+  export *
+  module * { export * }
+}

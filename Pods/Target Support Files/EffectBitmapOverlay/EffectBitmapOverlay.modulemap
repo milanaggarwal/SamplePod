@@ -1,0 +1,6 @@
+framework module EffectBitmapOverlay {
+  umbrella header "EffectBitmapOverlay-umbrella.h"
+
+  export *
+  module * { export * }
+}

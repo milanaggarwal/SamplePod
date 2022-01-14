@@ -1,0 +1,55 @@
+// Common
+"common.cancel" = "Cancel";
+"common.close" = "Close";
+"common.back" = "Back";
+
+// Boards
+"board.board" = "Board";
+"board.boards" = "Boards";
+"board.effect_type_description" = "Apply a board effect.";
+
+//Filters
+"filter.filter" = "Filter";
+"filter.filters" = "Filters";
+"filter.effect_type_description" = "Apply a filter effect.";
+
+//Frames
+"frame.frame" = "Frame";
+"frame.frames" = "Frames";
+"frame.effect_type_description" = "Apply a frame effect.";
+
+//Pen
+"pen.pen" = "Pen";
+"pen.effect_type_description" = "Apply a pen effect.";
+
+
+//Stickers
+"sticker.sticker" = "Sticker";
+"sticker.stickers" = "Stickers";
+"sticker.effect_type_description" = "Apply a sticker effect.";
+
+// Text
+"text.text" = "Text";
+"text.effect_type_description" = "Apply a text effect.";
+
+// Photo
+"photo.photo" = "Photo";
+"photo.effect_type_description" = "Apply a photo effect.";
+
+// Photo
+"lenses.lenses" = "Lenses";
+"lenses.backdrops" = "Backdrops";
+"lenses.effect_type_description" = "Apply a lens effect.";
+
+//Drawer
+"drawer.close" = "Close Drawer";
+
+//Record
+"record.bottom_bar.effects" = "Effects";
+"record.bottom_bar.options" = "Options";
+"record.bottom_bar.next" = "Next";
+"record.bottom_bar.record" = "Record";
+"record.bottom_bar.retake" = "Retake";
+"export.error.label" = "There was an error importing your video.";
+
+

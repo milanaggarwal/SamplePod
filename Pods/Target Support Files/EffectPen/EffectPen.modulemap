@@ -1,0 +1,6 @@
+framework module EffectPen {
+  umbrella header "EffectPen-umbrella.h"
+
+  export *
+  module * { export * }
+}
