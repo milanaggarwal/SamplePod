@@ -1,0 +1,6 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CameraCommon.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CameraTransform.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EffectBitmapOverlay.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EffectCommon.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EffectPen.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/InterfaceCommon.framework

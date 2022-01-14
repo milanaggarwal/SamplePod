@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-SamplePod2/Pods-SamplePod2-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CameraCommon/CameraCommon.framework
+${BUILT_PRODUCTS_DIR}/CameraTransform/CameraTransform.framework
+${BUILT_PRODUCTS_DIR}/EffectBitmapOverlay/EffectBitmapOverlay.framework
+${BUILT_PRODUCTS_DIR}/EffectCommon/EffectCommon.framework
+${BUILT_PRODUCTS_DIR}/EffectPen/EffectPen.framework
+${BUILT_PRODUCTS_DIR}/InterfaceCommon/InterfaceCommon.framework

@@ -1,0 +1,6 @@
+framework module EffectCommon {
+  umbrella header "EffectCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

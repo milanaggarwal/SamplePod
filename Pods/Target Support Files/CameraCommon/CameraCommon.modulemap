@@ -1,0 +1,6 @@
+framework module CameraCommon {
+  umbrella header "CameraCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

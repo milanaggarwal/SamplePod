@@ -1,0 +1,39 @@
+PODS:
+  - CameraCommon (0.3.0)
+  - CameraTransform (0.3.0):
+    - CameraCommon (= 0.3.0)
+  - EffectBitmapOverlay (0.3.0):
+    - EffectCommon (= 0.3.0)
+    - InterfaceCommon (= 0.3.0)
+  - EffectCommon (0.3.0):
+    - CameraCommon (= 0.3.0)
+    - CameraTransform (= 0.3.0)
+  - EffectPen (0.3.0):
+    - EffectBitmapOverlay (= 0.3.0)
+  - InterfaceCommon (0.3.0):
+    - CameraCommon (= 0.3.0)
+    - CameraTransform (= 0.3.0)
+
+DEPENDENCIES:
+  - EffectPen (= 0.3.0)
+
+SPEC REPOS:
+  https://github.com/flipgrid/fg-pod-repo.git:
+    - CameraCommon
+    - CameraTransform
+    - EffectBitmapOverlay
+    - EffectCommon
+    - EffectPen
+    - InterfaceCommon
+
+SPEC CHECKSUMS:
+  CameraCommon: 01ed9064c6c1985c2f3c93e86b854e51cd61eab0
+  CameraTransform: 99a16f3cc9939bb93e7686f0b9f9af6d0dc23aa3
+  EffectBitmapOverlay: 55a4b0c9609808c7ff4266474dfcacb70488b3ad
+  EffectCommon: bedf85ed2a7718ef6370907f252eabf08a60b3ae
+  EffectPen: c22738b677408ec95a881ec5c8b1a473e4b4b97a
+  InterfaceCommon: b3b33c3888654de576bd172e5806a0e6039e9f9e
+
+PODFILE CHECKSUM: 1d4470b0d354d988b7631eeeb4c65f899fffbc66
+
+COCOAPODS: 1.11.2
